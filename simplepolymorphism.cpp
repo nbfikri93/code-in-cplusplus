@@ -1,5 +1,5 @@
 // source: https://www.w3schools.com/cpp/cpp_inheritance.asp
-// polimorphism concepts
+// Polymorphism concepts
 // Polymorphism means "many forms", and it occurs when we have many classes that are 
 // related to each other by inheritance.
 // Polymorphism uses those methods to perform different tasks. This allows us to perform a 
